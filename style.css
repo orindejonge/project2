@@ -1,0 +1,82 @@
+/* General Styling*/
+html {
+  max-height: 100%;
+  max-width: 960px;
+  margin: auto;
+}
+body {
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'oswald', sans-serif; 
+  margin: 0 auto;
+}
+header {
+  background-color: #f21313;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto;
+  text-align: center;
+}
+footer {
+  background-color: #f21313;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 8px 10px;
+}
+footer a:hover {
+  color: #cccccc;
+}
+main {
+  background-color: #ffffff;
+  margin: 0 auto;
+  padding: 0px 72px;
+}
+nav {
+  width: 100%;  
+}
+
+/* Navigation Styling */
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+nav li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 12px 10px;
+  text-decoration: none;
+}
+nav li a:hover {
+  background-color: #9e0c0c;
+}
+
+/* Content Styling */
+.homephoto {
+  padding: 15px 300px;
+}
+.h2, h3, h4, h5, h6 {
+  font-family: 'anton', sans-serif;
+}
+.home h1  {
+  font-family: 'Amatic SC', sans-serif;
+  text-align: center;
+  text-shadow: 0px 0px 10px #06f, 0px 0px 15px #69f, 0px 0px 20px #0ff;
+  font-size: 40px;
+}
+.content img {
+  border: 2px solid #
+  margin: 0 auto;
+}
+.portfolio h1 {
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 0px 0px 10px #06f, 0px 0px 15px #69f, 0px 0px 20px #0ff;
+}
